@@ -24,7 +24,7 @@ How To Run
 
 It is easy to Run BankSystem. Just set path of your Java Folder
 in Dos Prompt and then type "Java BankSystem" and press Enter Key.
-(I've made this Program on MSWindows 98 and it works very nicely on
+(I've made this Program on MSWindows 8 and it works very nicely on
 it). If You Face any Problem Then Contact to Author of BankSystem.
 
 -------
